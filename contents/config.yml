@@ -1,12 +1,12 @@
-title: Sen Li's Homepage
-page-top-title: Sen Li
-top-section-bg-text: Data Science
+title: Zhaobo Wang's Homepage
+page-top-title: Zhaobo Wang
+top-section-bg-text: Machine Learning
 backgrounds:
   - static/assets/background/background_0.jpeg
   - static/assets/background/background_1.jpeg
 background-interval-ms: 7000
 background-overlay: 0.52
-copyright-text: '&copy; Sen Li 2023-2026. All Rights Reserved.'
+copyright-text: '&copy; Zhaobo Wang'
 github-link:
   text: Github
   href: https://github.com/senli1073
@@ -16,7 +16,7 @@ license-link:
 sections:
   - id: home
     nav: HOME
-    title: Sen Li&ensp;|&ensp;李森
+    title: Zhaobo Wang&ensp;|&ensp;王照博
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
     nav: PUBLICATIONS
