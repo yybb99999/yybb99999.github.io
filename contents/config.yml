@@ -18,11 +18,3 @@ sections:
     nav: HOME
     title: Zhaobo Wang&ensp;|&ensp;王照博
     href: '#page-top' # Default to '#<id>' if not specified
-  - id: publications
-    nav: PUBLICATIONS
-    title: PUBLICATIONS
-    icon: bi-file-text-fill
-  - id: awards
-    nav: AWARDS
-    title: AWARDS
-    icon: bi-award-fill
